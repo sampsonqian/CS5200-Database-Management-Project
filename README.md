@@ -29,7 +29,7 @@ Install the required Python libraries using pip:
 ````bash
 pip install pymysql
 pip install tabulate
-
+````
 
 ## Installation Directories
 
@@ -61,7 +61,7 @@ pip install tabulate
 
 ```bash
 python appGUI.py
-
+```
 
 ## Login Credentials
 
@@ -80,4 +80,4 @@ You may log in using either of the following credentials:
 ### Passengers and Viewers
 
 No login is required. You can proceed directly to the respective menus.
-````
+
